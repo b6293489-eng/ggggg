@@ -1,0 +1,44 @@
+[
+  {
+    "release_title": "Copper Morning",
+    "output_name": "usa300_bos_001_copper_morning",
+    "target_account": "bos-423483424",
+    "album_title": "Miles We Haven't Named",
+    "caption": "Original modern country-pop for a contemporary USA audience, 104 BPM, C major. warm conversational male lead in clear American English. Production: fingerpicked acoustic guitar, clean Telecaster answers, rounded bass, live kick and snare, restrained pedal steel. Arrange a intimate opening verse, wider pre-chorus, memorable full chorus, restrained bridge and brighter final chorus. The song is titled “Copper Morning”; keep the melody and phrasing original, emotionally direct and radio-clean, with no spoken introduction and no imitation of any existing artist.",
+    "lyrics": "[Verse 1]\nWe met before sunrise by a two-lane road outside Tulsa\nYou held a borrowed acoustic guitar like it still knew where to go\nThe forecast promised summer thunder, the radio kept fading\nI said I had no answer, you said we could take it slow\n\n[Pre-Chorus]\nEvery mile behind us taught the wheels another language\nEvery light ahead was one more chance to let it show\n\n[Chorus]\nCopper Morning, keep calling through the dashboard\nCopper Morning, keep shining where the blacktop bends\nWe can cross the county line, we can carry what still matters\nWe can trade the weight we know for the nerve to start again\nIf the night gets long, let the honest song remind us\nThere is more than one way home before the highway ends\n\n[Verse 2]\nWe stopped for coffee where the county map was curling\nA waitress drew a shortcut on a napkin by your hand\nYou laughed about the plans we made to never need directions\nThen tucked that little drawing where the old receipts had been\n\n[Bridge]\nNo promise that the weather will be easy\nNo perfect line of headlights to defend\nJust your voice above the tires and the courage to begin\n\n[Chorus]\nCopper Morning, keep calling through the dashboard\nCopper Morning, keep shining where the blacktop bends\nWe can cross the county line, we can carry what still matters\nWe can trade the weight we know for the nerve to start again\nIf the night gets long, let the honest song remind us\nThere is more than one way home before the highway ends",
+    "duration": 155,
+    "bpm": 104,
+    "key_scale": "C major",
+    "time_signature": "4",
+    "vocal_language": "en",
+    "explicit": false
+  },
+  {
+    "release_title": "Neon Pulse",
+    "output_name": "usa300_gleb_001_neon_pulse",
+    "target_account": "nn1v-680019554",
+    "album_title": "Signals After Closing",
+    "caption": "Original alternative pop for a contemporary USA audience, 106 BPM, G major. close dry male lead in natural American English. Production: muted electric guitar, rounded synth bass, crisp acoustic snare, lightly swung percussion and stacked original harmonies. Arrange a intimate opening verse, wider pre-chorus, memorable full chorus, restrained bridge and brighter final chorus. The song is titled “Neon Pulse”; keep the melody and phrasing original, emotionally direct and radio-clean, with no spoken introduction and no imitation of any existing artist.",
+    "lyrics": "[Verse 1]\nI found your message just past midnight near the last train platform\nThree little dots disappeared before the sentence had a name\nA borrowed black hoodie was the only proof the weekend really happened\nOutside, a clear blue morning made every traffic light look strange\n\n[Pre-Chorus]\nI don't want the old reply\nI want something I can use tonight\n\n[Chorus]\nNeon Pulse, running bright across the ceiling\nNeon Pulse, tell me what the silence means\nI can take the slower highway, I can quit rehearsing endings\nI can make a little room for one honest answer\nLet the bass line shake the picture out of focus\nLet the morning find me moving through the screen\n\n[Verse 2]\nEverybody at the station wore a different kind of distance\nI watched the doors divide the dark and put it back again\nI wrote a cleaner version of the truth inside my notebook\nThen crossed out every line that tried to make us only friends\n\n[Bridge]\nMaybe closure is a city with no exit\nMaybe freedom is the beat before it drops\nI don't need to know who wins this\nI just need to know the loop can stop\n\n[Chorus]\nNeon Pulse, running bright across the ceiling\nNeon Pulse, tell me what the silence means\nI can take the slower highway, I can quit rehearsing endings\nI can make a little room for one honest answer\nLet the bass line shake the picture out of focus\nLet the morning find me moving through the screen",
+    "duration": 159,
+    "bpm": 106,
+    "key_scale": "G major",
+    "time_signature": "4",
+    "vocal_language": "en",
+    "explicit": false
+  },
+  {
+    "release_title": "Honey Motion",
+    "output_name": "usa300_rivi_001_honey_motion",
+    "target_account": "rivi-135338423",
+    "album_title": "Rooms With The Lights Low",
+    "caption": "Original contemporary R&B for a contemporary USA audience, 78 BPM, D minor. intimate expressive female lead in clear American English. Production: felt Rhodes chords, warm sub bass, dry rimshot groove, brushed hi-hats, muted guitar motif and restrained stacked harmonies. Arrange a intimate opening verse, wider pre-chorus, memorable full chorus, restrained bridge and brighter final chorus. The song is titled “Honey Motion”; keep the melody and phrasing original, emotionally direct and radio-clean, with no spoken introduction and no imitation of any existing artist.",
+    "lyrics": "[Verse 1]\nYou came after the late shift to an apartment above a bakery\nSet a library book with a pressed flower down beside the door\nThe room was holding streetlight mist against the window\nWe spoke in careful chords we had not tried before\n\n[Pre-Chorus]\nNo need to make the moment louder\nI can hear the truth beneath your breath\n\n[Chorus]\nHoney Motion, move slowly through the room now\nHoney Motion, let the rhythm take its time\nWe can let the record spin, we can leave the fear behind us\nWe can turn this borrowed hour into a road worth taking\nPut your hand where all the quiet turns to music\nStay until the last warm harmony unwinds\n\n[Verse 2]\nThe neighbors moved their chairs across the ceiling\nA taxi painted gold along the wall\nYou told me every brave thing starts in almost silence\nI watched your shadow soften when you heard my answer fall\n\n[Bridge]\nIf tomorrow asks for language we don't carry\nLet tonight become the sentence we can trust\nNot a promise made for strangers\nJust a patient kind of love between us\n\n[Chorus]\nHoney Motion, move slowly through the room now\nHoney Motion, let the rhythm take its time\nWe can let the record spin, we can leave the fear behind us\nWe can turn this borrowed hour into a road worth taking\nPut your hand where all the quiet turns to music\nStay until the last warm harmony unwinds",
+    "duration": 165,
+    "bpm": 78,
+    "key_scale": "D minor",
+    "time_signature": "4",
+    "vocal_language": "en",
+    "explicit": false
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "music-factory-bridge-dom-tests",
+  "private": true,
+  "description": "Test-only DOM fixture runtime; not used by the Chrome extension",
+  "devDependencies": {"jsdom": "26.1.0"}
+}

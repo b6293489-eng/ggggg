@@ -1,0 +1,41 @@
+[
+  {
+    "release_title": "Map In The Glovebox",
+    "output_name": "usa60_bos_01",
+    "target_account": "bos-423483424",
+    "caption": "Original modern country-pop road song, warm conversational male lead with clear American English diction, fingerpicked acoustic guitar, clean Telecaster answers, rounded electric bass, steady live kick and snare, subtle pedal steel. Intimate opening verse, wider melodic chorus with two-part harmony, restrained bridge, final chorus with brighter drums. Hopeful and grounded, no spoken intro.",
+    "lyrics": "[Verse 1]\nYou found a folded map beneath the service records\nCoffee rings were covering a county we could try\nI had spent the morning making reasons we should stay here\nYou just drew a little star and asked me for a ride\n[Chorus]\nKeep a map in the glovebox, keep a little daylight\nLeave a seat beside you for a different kind of plan\nWe can miss a turning, we can make a new life\nThere's a whole wide morning waiting where this road began\n[Verse 2]\nWe stopped beside a market selling peaches by the highway\nAn old man said the bridge was closed a couple miles ahead\nWe bought enough for supper and we took the slower crossing\nFound a swimming hole instead of all the things we dread\n[Bridge]\nI don't need a perfect arrow pointing straight to somewhere\nI just need your laughing when the paper won't unfold\n[Chorus]\nKeep a map in the glovebox, keep a little daylight\nLeave a seat beside you for a different kind of plan\nWe can miss a turning, we can make a new life\nThere's a whole wide morning waiting where this road began",
+    "duration": 175,
+    "bpm": 110,
+    "key_scale": "G major",
+    "time_signature": "4",
+    "vocal_language": "en",
+    "explicit": false
+  },
+  {
+    "release_title": "Last Train Windows",
+    "output_name": "usa60_gleb_01_last_train_windows",
+    "target_account": "gleb-oxaj",
+    "caption": "Original alternative pop, 112 BPM, E minor. Close dry male lead vocal, muted electric guitar, rounded synth bass, crisp acoustic snare and lightly swung shaker. Start with a train-like guitar pulse; intimate verses open into a wide melodic chorus with original stacked harmonies. Short half-time bridge, then a full final chorus. Clean contemporary mix, no spoken introduction.",
+    "lyrics": "[Verse 1]\nYour reflection takes the seat\nWhere your coat was yesterday\nI can see the river moving\nThrough the words I didn't say\nI keep missing our old station\nJust to stretch this little ride\n\n[Pre-Chorus]\nEvery tunnel turns the glass\nInto somewhere we could stay\nThen the city finds its color\nAnd the picture slips away\n\n[Chorus]\nLast train windows, let me see\nSomething more than yesterday and me\nCarry these rooms beyond their walls\nCarry my name where morning calls\nI don't need you waiting there\nOnly a little brighter air\n\n[Verse 2]\nEverybody holds a somewhere\nThey are trying to get through\nWhen the doors release their whisper\nI can finally leave my seat\nWith the map still in my pocket\nAnd tomorrow on my feet\n\n[Bridge]\nNothing moved the river backward\nNothing asked the sky to wait\nI can love the miles behind me\nWithout riding them too late\n\n[Chorus]\nLast train windows, let me see\nSomething more than yesterday and me\nCarry these rooms beyond their walls\nCarry my name where morning calls\nI don't need you waiting there\nOnly a little brighter air",
+    "duration": 180,
+    "bpm": 112,
+    "key_scale": "E minor",
+    "time_signature": "4",
+    "vocal_language": "en",
+    "explicit": false
+  },
+  {
+    "release_title": "Apartment Eleven",
+    "output_name": "usa60_rivi_01_apartment_eleven",
+    "target_account": "rivi-135338423",
+    "caption": "Original contemporary R&B with felt electric piano, warm sub bass, dry rimshot groove, brushed hi-hats and a muted electric guitar motif. Intimate expressive female lead vocal with restrained stacked harmonies. Start with keys and voice, add bass in verse one, broaden the chorus, strip the bridge to finger snaps, finish with a full final chorus. Clean, polished stereo mix.",
+    "lyrics": "[Verse 1]\nYou stacked your boxes beside the broken elevator\nI held the door with my grocery bag\nA little keyboard waited under folded winter blankets\nYou said the movers lost its power adapter\n\n[Chorus]\nApartment eleven, leave a little room for sound\nI can bring a cable when the sun goes down\nPlay the crooked melody you never wrote down\nApartment eleven, let me hear it coming around\n\n[Verse 2]\nWe ate cold noodles sitting on the carpet\nYour cardboard table leaned against my tired knees\nYou found a chord that made the ceiling soften\nI finally quit checking when my phone would ring\n\n[Bridge]\nNo perfect furniture, no curtains at the window\nJust a borrowed speaker balanced on the floor\nYou asked if I could stay to sing the ending\nI put my empty grocery bag beside your door\n\n[Chorus]\nApartment eleven, leave a little room for sound\nI can bring a cable when the sun goes down\nPlay the crooked melody you never wrote down\nApartment eleven, let me hear it coming around",
+    "duration": 176,
+    "bpm": 86,
+    "key_scale": "D minor",
+    "time_signature": "4",
+    "vocal_language": "en",
+    "explicit": false
+  }
+]

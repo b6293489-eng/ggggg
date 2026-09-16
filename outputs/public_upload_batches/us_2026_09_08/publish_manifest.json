@@ -1,0 +1,175 @@
+{
+  "batch": "us_2026_09_08",
+  "visibility": "public",
+  "rule": "Upload every account folder as one direct public batch. Do not make private drafts.",
+  "accounts": [
+    {
+      "account": "bos-423483424",
+      "folder": "/Users/hlibokhai/Documents/Codex/2026-09-08/files-mentioned-by-the-user-hjh/outputs/public_upload_batches/us_2026_09_08/bos",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Porcelain Sky",
+          "file": "01 - Porcelain Sky.wav"
+        },
+        {
+          "number": 2,
+          "title": "Dusty Neon",
+          "file": "02 - Dusty Neon.wav"
+        },
+        {
+          "number": 3,
+          "title": "One More County Line",
+          "file": "03 - One More County Line.wav"
+        },
+        {
+          "number": 4,
+          "title": "Backroad Radio",
+          "file": "04 - Backroad Radio.wav"
+        },
+        {
+          "number": 5,
+          "title": "Porchlight Promise",
+          "file": "05 - Porchlight Promise.wav"
+        },
+        {
+          "number": 6,
+          "title": "Small Town Cinema",
+          "file": "06 - Small Town Cinema.wav"
+        },
+        {
+          "number": 7,
+          "title": "Wildflower Weather",
+          "file": "07 - Wildflower Weather.wav"
+        },
+        {
+          "number": 8,
+          "title": "Gas Station Roses",
+          "file": "08 - Gas Station Roses.wav"
+        },
+        {
+          "number": 9,
+          "title": "Midnight Mile",
+          "file": "09 - Midnight Mile.wav"
+        },
+        {
+          "number": 10,
+          "title": "Lakeside July",
+          "file": "10 - Lakeside July.wav"
+        }
+      ]
+    },
+    {
+      "account": "gleb-oxaj",
+      "folder": "/Users/hlibokhai/Documents/Codex/2026-09-08/files-mentioned-by-the-user-hjh/outputs/public_upload_batches/us_2026_09_08/gleb",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Offline Mode",
+          "file": "01 - Offline Mode.wav"
+        },
+        {
+          "number": 2,
+          "title": "City On Silent",
+          "file": "02 - City On Silent.wav"
+        },
+        {
+          "number": 3,
+          "title": "Paper Planes",
+          "file": "03 - Paper Planes.wav"
+        },
+        {
+          "number": 4,
+          "title": "Afterparty Alone",
+          "file": "04 - Afterparty Alone.wav"
+        },
+        {
+          "number": 5,
+          "title": "Blue Light Fever",
+          "file": "05 - Blue Light Fever.wav"
+        },
+        {
+          "number": 6,
+          "title": "No Signal Summer",
+          "file": "06 - No Signal Summer.wav"
+        },
+        {
+          "number": 7,
+          "title": "Glass Elevator",
+          "file": "07 - Glass Elevator.wav"
+        },
+        {
+          "number": 8,
+          "title": "Half Past Gold",
+          "file": "08 - Half Past Gold.wav"
+        },
+        {
+          "number": 9,
+          "title": "Anywhere But Here",
+          "file": "09 - Anywhere But Here.wav"
+        },
+        {
+          "number": 10,
+          "title": "Concrete Constellations",
+          "file": "10 - Concrete Constellations.wav"
+        }
+      ]
+    },
+    {
+      "account": "rivi-135338423",
+      "folder": "/Users/hlibokhai/Documents/Codex/2026-09-08/files-mentioned-by-the-user-hjh/outputs/public_upload_batches/us_2026_09_08/rivi",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "After The Rain",
+          "file": "01 - After The Rain.wav"
+        },
+        {
+          "number": 2,
+          "title": "Better In The Morning",
+          "file": "02 - Better In The Morning.wav"
+        },
+        {
+          "number": 3,
+          "title": "Cherry Soda",
+          "file": "03 - Cherry Soda.wav"
+        },
+        {
+          "number": 4,
+          "title": "Never Needed A Map",
+          "file": "04 - Never Needed A Map.wav"
+        },
+        {
+          "number": 5,
+          "title": "Mirrorball Heart",
+          "file": "05 - Mirrorball Heart.wav"
+        },
+        {
+          "number": 6,
+          "title": "Weekend Language",
+          "file": "06 - Weekend Language.wav"
+        },
+        {
+          "number": 7,
+          "title": "Golden Hour Text",
+          "file": "07 - Golden Hour Text.wav"
+        },
+        {
+          "number": 8,
+          "title": "Closer To The Floor",
+          "file": "08 - Closer To The Floor.wav"
+        },
+        {
+          "number": 9,
+          "title": "Soft Landing",
+          "file": "09 - Soft Landing.wav"
+        },
+        {
+          "number": 10,
+          "title": "Last Call Glitter",
+          "file": "10 - Last Call Glitter.wav"
+        }
+      ]
+    }
+  ]
+}

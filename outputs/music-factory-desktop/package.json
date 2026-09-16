@@ -1,0 +1,27 @@
+{
+  "name": "music-factory",
+  "productName": "Music Factory",
+  "version": "2.2.3",
+  "private": true,
+  "description": "Local music production, account queues and Playwright SoundCloud automation",
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "preview": "node preview.cjs",
+    "test": "node --test core/*.test.cjs test/*.test.cjs extension/test/*.test.cjs",
+    "build:mac": "node scripts/package.cjs darwin arm64",
+    "build:windows": "node scripts/package.cjs win32 x64"
+  },
+  "devDependencies": {
+    "@electron/packager": "20.3.0",
+    "electron": "44.2.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "electron"
+    ]
+  },
+  "dependencies": {
+    "playwright-core": "1.63.0"
+  }
+}
